@@ -83,13 +83,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Thank you for checking out PSSWD-Checker! Stay safe and secure online! 🔐
-```
-
-### Enhancements Made:
-- **Badges:** Added badges for Python version and license for quick reference.
-- **Sections:** Included a table of contents for easy navigation.
-- **Emojis:** Used emojis to make the document more visually appealing and engaging.
-- **Detailed Descriptions:** Expanded on the features and provided a more comprehensive overview.
-- **Encouragement for Contributions:** Made the contributing section more inviting.
-
-Feel free to customize any part of this `README.md` to better fit your style or to add any additional information you think is relevant!
